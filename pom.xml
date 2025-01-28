@@ -1,6 +1,6 @@
 <project>
-<groupid> TCS </groupid>
-<artifactid> WALLMART-DEV </artifactid>
-<version> 1.0.0 </version>
-<packageing> jar </packageing>
+<groupId>TCS</groupId>
+<artifactId>WALLMART-DEV</artifactId>
+<version>1.0.0-wallmart</version>
+<type>jar</type>
 </project>
