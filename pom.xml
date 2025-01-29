@@ -8,8 +8,25 @@
   <url>https://github.com/devopswithmt/amazon.git</url>
   <organization>
     <name>devopswithmt</name>
-    <url>
+    <url>https://github.com/devopswithmt.com</url>
   </organization>
+
+  <properties>
+    <sonar.host.url>13.51.169.98:9000/</sonar.host.url>
+    <sonar.login>admin</sonar.login>
+    <sonar.password>admin</sonar.password>
+  </properties>
+
+  <dependencies>
+    <dependency>
+      <groupId>junit</groupId>
+      <artifactId>junit</artifactId>
+      <modelVersion>3.8.1</modelVersion>
+      <scope>test</scope>
+    </dependency>
+  </dependencies>
+
+</project>
 
   
 </project>
