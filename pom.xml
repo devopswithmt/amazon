@@ -2,5 +2,5 @@
   <groupId>TCS</groupId>
   <artifactId>WALLMART-DEV</artifactId>
   <modelVersion>6.0.0-wallmart</modelVersion>
-  <packaging>jar</packaging>
+  <packaging>war</packaging>
 </project>
