@@ -2,5 +2,8 @@
   <groupId>TCS</groupId>
   <artifactId>WALLMART-DEV</artifactId>
   <modelVersion>6.0.0-wallmart</modelVersion>
-  <packaging>war</packaging>
+  <packaging>jar</packaging>
+
+  <name> vijaybhaskar reddy</name>
+  <url>
 </project>
