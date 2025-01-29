@@ -1,7 +1,7 @@
 <project>
   <groupId>TCS</groupId>
   <artifactId>WALLMART-DEV</artifactId>
-  <modelVersion>6.0.0-wallmart</modelVersion>
+  <version>1.0.0-wallmart</version>
   <packaging>jar</packaging>
 
   <name> vijaybhaskar reddy</name>
@@ -28,5 +28,3 @@
 
 </project>
 
-  
-</project>
